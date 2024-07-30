@@ -1,6 +1,6 @@
 {
   "name": "smart-contract-downloader",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool to download smart contract from blockchain explorers",
   "main": "index.js",
   "scripts": {
