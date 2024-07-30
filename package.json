@@ -6,7 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "smart-contract-dowloader",
+    "smart-contract",
+    "block-chain",
+    "etherscan",
+    "web3"
+  ],
   "author": "amimaro",
   "license": "ISC",
   "dependencies": {
