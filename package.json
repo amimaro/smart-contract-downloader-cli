@@ -14,7 +14,7 @@
     "web3"
   ],
   "author": "amimaro",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.2.6"
   },
