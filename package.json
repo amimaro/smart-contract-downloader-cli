@@ -15,8 +15,5 @@
   "bin": {
     "smart-contract-downloader": "./index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/amimaro/smart-contract-downloader-cli.git"
-  }
+  "repository": "amimaro/smart-contract-downloader-cli.git"
 }
